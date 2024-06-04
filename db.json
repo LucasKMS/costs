@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "970c",
+      "name": "Lucas Kauã Martins Sampaio",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "6076",
+      "name": "Lucas Kauã Martins Sampaio",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a1f6",
+      "name": "Lucas Kauã ",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "budget": "2542504",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
